@@ -1,0 +1,240 @@
+2025-04-02 00:33:59,274 - INFO - Starting traffic generation: 50 sessions to https://luxeessentiial.myshopify.com/
+2025-04-02 00:34:01,516 - ERROR - Failed to access site: 404
+2025-04-02 00:34:02,275 - INFO - Visited: / | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:34:09,363 - ERROR - Session error: HTTPSConnectionPool(host='luxeessentiial.myshopify.com', port=443): Max retries exceeded with url: /about (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001678A109950>, 'Connection to 198.51.100.2 timed out. (connect timeout=10)')))
+2025-04-02 00:34:09,365 - ERROR - Session error: HTTPSConnectionPool(host='luxeessentiial.myshopify.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001678A109450>, 'Connection to 192.0.2.3 timed out. (connect timeout=10)')))
+2025-04-02 00:34:09,365 - ERROR - Session error: HTTPSConnectionPool(host='luxeessentiial.myshopify.com', port=443): Max retries exceeded with url: /products (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001678A104980>, 'Connection to 203.0.113.1 timed out. (connect timeout=10)')))
+2025-04-02 00:34:10,001 - INFO - Visited: / | Status: 200
+2025-04-02 00:34:10,404 - INFO - Visited: / | UA: Mozilla/5.0 (Windows NT 10.0; ... | Status: 200
+2025-04-02 00:34:11,540 - ERROR - Session error: HTTPSConnectionPool(host='luxeessentiial.myshopify.com', port=443): Max retries exceeded with url: /about (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001678A108CD0>, 'Connection to 203.0.113.1 timed out. (connect timeout=10)')))
+2025-04-02 00:34:14,480 - INFO - Visited: /pages/contact | Status: 200
+2025-04-02 00:34:16,403 - INFO - Visited: /pages/contact | Status: 200
+2025-04-02 00:34:19,434 - ERROR - Session error: HTTPSConnectionPool(host='luxeessentiial.myshopify.com', port=443): Max retries exceeded with url: /products (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001678A108B90>, 'Connection to 192.0.2.3 timed out. (connect timeout=10)')))
+2025-04-02 00:34:19,434 - ERROR - Session error: HTTPSConnectionPool(host='luxeessentiial.myshopify.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000016788E37390>, 'Connection to 198.51.100.2 timed out. (connect timeout=10)')))
+2025-04-02 00:34:19,476 - INFO - Visited: / | Status: 200
+2025-04-02 00:34:21,549 - ERROR - Session error: HTTPSConnectionPool(host='luxeessentiial.myshopify.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001678A109F90>, 'Connection to 203.0.113.1 timed out. (connect timeout=10)')))
+2025-04-02 00:34:22,194 - ERROR - Session error: HTTPSConnectionPool(host='luxeessentiial.myshopify.com', port=443): Max retries exceeded with url: /pages/contact (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001678A1091D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')))
+2025-04-02 00:34:22,329 - INFO - Visited: / | UA: Mozilla/5.0 (Macintosh; Intel ... | Status: 200
+2025-04-02 00:34:23,210 - INFO - Visited: /pages/contact | Status: 200
+2025-04-02 00:34:23,894 - INFO - Visited: /pages/contact | Status: 200
+2025-04-02 00:34:26,917 - INFO - Visited: /pages/contact | Status: 200
+2025-04-02 00:34:26,920 - INFO - Visited: /products | Status: 200
+2025-04-02 00:34:29,110 - INFO - Visited: /pages/contact | Status: 200
+2025-04-02 00:34:29,465 - ERROR - Session error: HTTPSConnectionPool(host='luxeessentiial.myshopify.com', port=443): Max retries exceeded with url: /pages/contact (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001678A108410>, 'Connection to 203.0.113.1 timed out. (connect timeout=10)')))
+2025-04-02 00:34:30,220 - INFO - Visited: /products | Status: 200
+2025-04-02 00:34:30,221 - INFO - Visited: /products | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:34:30,356 - INFO - Visited: /pages/contact | Status: 200
+2025-04-02 00:34:32,207 - ERROR - Session error: HTTPSConnectionPool(host='luxeessentiial.myshopify.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001678A109310>, 'Connection to 198.51.100.2 timed out. (connect timeout=10)')))
+2025-04-02 00:34:33,337 - INFO - Visited: /pages/contact | Status: 200
+2025-04-02 00:34:33,661 - INFO - Visited: /products | Status: 200
+2025-04-02 00:34:34,745 - INFO - Visited: / | Status: 200
+2025-04-02 00:34:37,155 - INFO - Visited: / | Status: 200
+2025-04-02 00:34:38,839 - INFO - Visited: / | Status: 200
+2025-04-02 00:34:40,744 - ERROR - Session error: HTTPSConnectionPool(host='luxeessentiial.myshopify.com', port=443): Max retries exceeded with url: /about (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001678A10A490>, 'Connection to 192.0.2.3 timed out. (connect timeout=10)')))
+2025-04-02 00:34:41,645 - INFO - Visited: /pages/contact | UA: Mozilla/5.0 (Windows NT 10.0; ... | Status: 200
+2025-04-02 00:34:43,081 - INFO - Visited: /products | Status: 200
+2025-04-02 00:34:47,685 - INFO - Visited: / | Status: 200
+2025-04-02 00:34:53,841 - INFO - Visited: / | Status: 200
+2025-04-02 00:34:56,399 - INFO - Visited: / | Status: 200
+2025-04-02 00:35:05,928 - INFO - Visited: /products | Status: 200
+2025-04-02 00:35:12,328 - INFO - Visited: / | Status: 200
+2025-04-02 00:35:18,915 - INFO - Visited: /pages/contact | Status: 200
+2025-04-02 00:35:20,453 - INFO - Visited: /products | Status: 200
+2025-04-02 00:35:37,557 - INFO - Visited: /pages/contact | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:35:43,142 - INFO - Visited: /pages/contact | Status: 200
+2025-04-02 00:35:44,723 - INFO - Visited: /products | Status: 200
+2025-04-02 00:35:49,381 - INFO - Visited: /products | Status: 200
+2025-04-02 00:36:54,447 - INFO - Visited: /pages/contact | UA: Mozilla/5.0 (Windows NT 10.0; ... | Status: 200
+2025-04-02 00:36:58,242 - INFO - Visited: / | Status: 200
+2025-04-02 00:37:01,031 - INFO - Visited: /pages/contact | Status: 200
+2025-04-02 00:37:05,340 - INFO - Visited: /products | Status: 200
+2025-04-02 00:38:23,490 - ERROR - Failed to access site: 404
+2025-04-02 00:38:32,057 - INFO - Visited: /products | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:38:33,531 - ERROR - Session error: HTTPSConnectionPool(host='luxeessentiial.myshopify.com', port=443): Max retries exceeded with url: /about (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000016788E37D90>, 'Connection to 192.0.2.3 timed out. (connect timeout=10)')))
+2025-04-02 00:38:43,578 - ERROR - Session error: HTTPSConnectionPool(host='luxeessentiial.myshopify.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000016788E374D0>, 'Connection to 198.51.100.2 timed out. (connect timeout=10)')))
+2025-04-02 00:38:53,610 - ERROR - Session error: HTTPSConnectionPool(host='luxeessentiial.myshopify.com', port=443): Max retries exceeded with url: /about (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000016788E36D50>, 'Connection to 198.51.100.2 timed out. (connect timeout=10)')))
+2025-04-02 00:39:03,635 - ERROR - Session error: HTTPSConnectionPool(host='luxeessentiial.myshopify.com', port=443): Max retries exceeded with url: /about (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000016788E36990>, 'Connection to 198.51.100.2 timed out. (connect timeout=10)')))
+2025-04-02 00:39:05,986 - ERROR - Session error: HTTPSConnectionPool(host='luxeessentiial.myshopify.com', port=443): Max retries exceeded with url: /products (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016788E36E90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')))
+2025-04-02 00:39:06,810 - INFO - Visited: /pages/contact | UA: Mozilla/5.0 (Macintosh; Intel ... | Status: 200
+2025-04-02 00:39:17,080 - INFO - Visited: /pages/contact | Status: 200
+2025-04-02 00:39:20,280 - ERROR - Session error: HTTPSConnectionPool(host='luxeessentiial.myshopify.com', port=443): Max retries exceeded with url: /products (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016788E37C50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')))
+2025-04-02 00:39:22,622 - ERROR - Session error: HTTPSConnectionPool(host='luxeessentiial.myshopify.com', port=443): Max retries exceeded with url: /pages/contact (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001678A10A850>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')))
+2025-04-02 00:39:26,313 - INFO - Visited: /products | Status: 200
+2025-04-02 00:39:31,735 - INFO - Visited: / | Status: 200
+2025-04-02 00:39:32,645 - ERROR - Session error: HTTPSConnectionPool(host='luxeessentiial.myshopify.com', port=443): Max retries exceeded with url: /pages/contact (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001678A109590>, 'Connection to 203.0.113.1 timed out. (connect timeout=10)')))
+2025-04-02 00:39:33,279 - INFO - Visited: / | Status: 200
+2025-04-02 00:39:42,667 - ERROR - Session error: HTTPSConnectionPool(host='luxeessentiial.myshopify.com', port=443): Max retries exceeded with url: /pages/contact (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001678A10A710>, 'Connection to 203.0.113.1 timed out. (connect timeout=10)')))
+2025-04-02 00:39:42,700 - INFO - Visited: / | Status: 200
+2025-04-02 00:39:43,514 - ERROR - Failed to access site: 404
+2025-04-02 00:39:48,251 - INFO - Visited: /products | Status: 200
+2025-04-02 00:39:53,529 - ERROR - Session error: HTTPSConnectionPool(host='luxeessentiial.myshopify.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001678A108050>, 'Connection to 198.51.100.2 timed out. (connect timeout=10)')))
+2025-04-02 00:39:57,449 - ERROR - Session error: HTTPSConnectionPool(host='luxeessentiial.myshopify.com', port=443): Max retries exceeded with url: /about (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001678A10AAD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')))
+2025-04-02 00:39:59,759 - ERROR - Session error: HTTPSConnectionPool(host='luxeessentiial.myshopify.com', port=443): Max retries exceeded with url: /about (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001678A10A5D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')))
+2025-04-02 00:40:09,788 - ERROR - Session error: HTTPSConnectionPool(host='luxeessentiial.myshopify.com', port=443): Max retries exceeded with url: /products (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001678A109090>, 'Connection to 198.51.100.2 timed out. (connect timeout=10)')))
+2025-04-02 00:40:11,863 - INFO - Visited: /products | UA: Mozilla/5.0 (Linux; Android 10... | Status: 200
+2025-04-02 00:40:15,315 - ERROR - Session error: HTTPSConnectionPool(host='luxeessentiial.myshopify.com', port=443): Max retries exceeded with url: /products (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001678A10A0D0>, 'Connection to 198.51.100.2 timed out. (connect timeout=10)')))
+2025-04-02 00:40:17,547 - INFO - Visited: / | Status: 200
+2025-04-02 00:40:19,070 - ERROR - Session error: HTTPSConnectionPool(host='luxeessentiial.myshopify.com', port=443): Max retries exceeded with url: /about (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001678A10A210>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')))
+2025-04-02 00:40:20,079 - INFO - Visited: / | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:40:23,160 - INFO - Visited: /pages/contact | Status: 200
+2025-04-02 00:40:26,013 - INFO - Visited: /products | Status: 200
+2025-04-02 00:40:26,048 - INFO - Visited: /products | Status: 200
+2025-04-02 00:40:30,322 - INFO - Visited: /pages/contact | Status: 200
+2025-04-02 00:40:46,702 - ERROR - Session error: HTTPSConnectionPool(host='luxeessentiial.myshopify.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016788E36AD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')))
+2025-04-02 00:40:47,534 - INFO - Visited: /products | UA: Mozilla/5.0 (Windows NT 10.0; ... | Status: 200
+2025-04-02 00:40:59,477 - INFO - Visited: /products | Status: 200
+2025-04-02 00:41:04,918 - INFO - Visited: /products | Status: 200
+2025-04-02 00:41:07,572 - INFO - Visited: /pages/contact | Status: 200
+2025-04-02 00:41:16,495 - ERROR - Session error: HTTPSConnectionPool(host='luxeessentiial.myshopify.com', port=443): Max retries exceeded with url: /about (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000016788E37390>, 'Connection to 198.51.100.2 timed out. (connect timeout=10)')))
+2025-04-02 00:41:17,365 - INFO - Visited: /pages/contact | UA: Mozilla/5.0 (Windows NT 10.0; ... | Status: 200
+2025-04-02 00:41:20,290 - ERROR - Session error: HTTPSConnectionPool(host='luxeessentiial.myshopify.com', port=443): Max retries exceeded with url: /pages/contact (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000016788E37890>, 'Connection to 198.51.100.2 timed out. (connect timeout=10)')))
+2025-04-02 00:41:24,668 - INFO - Visited: /products | Status: 200
+2025-04-02 00:41:30,341 - ERROR - Session error: HTTPSConnectionPool(host='luxeessentiial.myshopify.com', port=443): Max retries exceeded with url: /about (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000016788E36C10>, 'Connection to 198.51.100.2 timed out. (connect timeout=10)')))
+2025-04-02 00:41:31,346 - INFO - Visited: / | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:41:31,547 - INFO - Visited: / | Status: 200
+2025-04-02 00:41:33,389 - INFO - Visited: /pages/contact | Status: 200
+2025-04-02 00:41:36,674 - INFO - Visited: / | Status: 200
+2025-04-02 00:41:38,196 - INFO - Visited: /products | Status: 200
+2025-04-02 00:41:45,677 - INFO - Visited: /products | Status: 200
+2025-04-02 00:41:50,283 - INFO - Visited: /pages/contact | Status: 200
+2025-04-02 00:41:53,818 - ERROR - Session error: HTTPSConnectionPool(host='luxeessentiial.myshopify.com', port=443): Max retries exceeded with url: /about (Caused by ProxyError('Unable to connect to proxy', ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000016788E37610>, 'Connection to 203.0.113.1 timed out. (connect timeout=10)')))
+2025-04-02 00:41:57,198 - INFO - Starting traffic generation: 50 sessions to https://luxeessentiial.myshopify.com
+2025-04-02 00:41:58,186 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Linux; Android 10... | Status: 200
+2025-04-02 00:41:58,214 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:41:58,225 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Windows NT 10.0; ... | Status: 200
+2025-04-02 00:41:58,239 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Linux; Android 10... | Status: 200
+2025-04-02 00:41:58,240 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:41:59,116 - INFO - Visited: / | Status: 200
+2025-04-02 00:41:59,130 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:41:59,132 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Linux; Android 10... | Status: 200
+2025-04-02 00:41:59,153 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:41:59,169 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:41:59,171 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Macintosh; Intel ... | Status: 200
+2025-04-02 00:42:00,043 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Windows NT 10.0; ... | Status: 200
+2025-04-02 00:42:00,058 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Windows NT 10.0; ... | Status: 200
+2025-04-02 00:42:00,060 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:42:00,097 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:42:00,116 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:42:00,949 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:42:00,963 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Windows NT 10.0; ... | Status: 200
+2025-04-02 00:42:00,977 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:42:00,992 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Linux; Android 10... | Status: 200
+2025-04-02 00:42:01,874 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Linux; Android 10... | Status: 200
+2025-04-02 00:42:01,911 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:42:01,912 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Linux; Android 10... | Status: 200
+2025-04-02 00:42:01,934 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Windows NT 10.0; ... | Status: 200
+2025-04-02 00:42:01,954 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Macintosh; Intel ... | Status: 200
+2025-04-02 00:42:02,694 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Windows NT 10.0; ... | Status: 200
+2025-04-02 00:42:02,720 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Macintosh; Intel ... | Status: 200
+2025-04-02 00:42:02,738 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (X11; Linux x86_64... | Status: 200
+2025-04-02 00:42:02,770 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Macintosh; Intel ... | Status: 200
+2025-04-02 00:42:02,782 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:42:03,454 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:42:03,482 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Windows NT 10.0; ... | Status: 200
+2025-04-02 00:42:03,501 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Macintosh; Intel ... | Status: 200
+2025-04-02 00:42:03,505 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Linux; Android 10... | Status: 200
+2025-04-02 00:42:03,548 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Macintosh; Intel ... | Status: 200
+2025-04-02 00:42:04,164 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Linux; Android 10... | Status: 200
+2025-04-02 00:42:04,214 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Linux; Android 10... | Status: 200
+2025-04-02 00:42:04,237 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Macintosh; Intel ... | Status: 200
+2025-04-02 00:42:04,251 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:42:04,265 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:42:04,939 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Windows NT 10.0; ... | Status: 200
+2025-04-02 00:42:04,973 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:42:05,008 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Windows NT 10.0; ... | Status: 200
+2025-04-02 00:42:05,046 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Macintosh; Intel ... | Status: 200
+2025-04-02 00:42:05,086 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Windows NT 10.0; ... | Status: 200
+2025-04-02 00:42:05,693 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Linux; Android 10... | Status: 200
+2025-04-02 00:42:05,714 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Windows NT 10.0; ... | Status: 200
+2025-04-02 00:42:05,774 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Windows NT 10.0; ... | Status: 200
+2025-04-02 00:42:05,797 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:42:05,840 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:42:06,288 - INFO - Visited: /pages/contact | Status: 200
+2025-04-02 00:42:06,465 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Windows NT 10.0; ... | Status: 200
+2025-04-02 00:42:06,469 - INFO - Traffic generation complete. Successful: 50, Failed: 0
+2025-04-02 00:43:30,047 - INFO - Starting traffic generation: 50 sessions to https://luxeessentiial.myshopify.com
+2025-04-02 00:43:31,155 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:43:31,180 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Linux; Android 10... | Status: 200
+2025-04-02 00:43:31,193 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (X11; Linux x86_64... | Status: 200
+2025-04-02 00:43:31,208 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Windows NT 10.0; ... | Status: 200
+2025-04-02 00:43:31,238 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:43:31,981 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Windows NT 10.0; ... | Status: 200
+2025-04-02 00:43:31,994 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Windows NT 10.0; ... | Status: 200
+2025-04-02 00:43:32,002 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Linux; Android 10... | Status: 200
+2025-04-02 00:43:32,022 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Windows NT 10.0; ... | Status: 200
+2025-04-02 00:43:32,025 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:43:32,685 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Macintosh; Intel ... | Status: 200
+2025-04-02 00:43:32,752 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:43:32,754 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Macintosh; Intel ... | Status: 200
+2025-04-02 00:43:32,792 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:43:32,827 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:43:33,490 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Linux; Android 10... | Status: 200
+2025-04-02 00:43:33,514 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Linux; Android 10... | Status: 200
+2025-04-02 00:43:33,542 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:43:33,543 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:43:33,582 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Windows NT 10.0; ... | Status: 200
+2025-04-02 00:43:34,210 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Macintosh; Intel ... | Status: 200
+2025-04-02 00:43:34,293 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Windows NT 10.0; ... | Status: 200
+2025-04-02 00:43:34,295 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Macintosh; Intel ... | Status: 200
+2025-04-02 00:43:34,325 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:43:34,340 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:43:35,164 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Macintosh; Intel ... | Status: 200
+2025-04-02 00:43:35,166 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:43:35,177 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:43:35,178 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Macintosh; Intel ... | Status: 200
+2025-04-02 00:43:35,213 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Linux; Android 10... | Status: 200
+2025-04-02 00:43:35,872 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:43:35,967 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:43:36,040 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:43:36,063 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:43:36,123 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:43:36,578 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:43:36,665 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:43:36,775 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:43:36,858 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:43:36,860 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:43:37,317 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:43:37,390 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Windows NT 10.0; ... | Status: 200
+2025-04-02 00:43:37,566 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:43:37,611 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Windows NT 10.0; ... | Status: 200
+2025-04-02 00:43:37,631 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:43:38,031 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:43:38,099 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Linux; Android 10... | Status: 200
+2025-04-02 00:43:38,355 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:43:38,356 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Windows NT 10.0; ... | Status: 200
+2025-04-02 00:43:38,357 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon... | Status: 200
+2025-04-02 00:43:38,360 - INFO - Traffic generation complete. Successful: 50, Failed: 0
+2025-04-02 00:49:39,237 - INFO - Starting traffic generation: 50 sessions to https://luxeessentiial.myshopify.com
+2025-04-02 00:50:50,701 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-02 00:51:56,045 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-02 00:52:37,852 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 00:53:31,144 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Macintosh; Intel ...
+2025-04-02 00:54:18,030 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 00:54:58,349 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-02 00:56:00,042 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 00:57:03,677 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 00:58:27,766 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-02 00:59:14,191 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 01:00:08,396 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 01:00:49,814 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 01:01:55,933 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 01:02:50,913 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 01:03:44,753 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 01:04:34,631 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 01:05:12,217 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 01:05:54,327 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-02 01:07:12,642 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Linux; Android 10...
+2025-04-02 01:07:38,159 - INFO - Starting traffic generation: 50 sessions to https://luxeessentiial.myshopify.com
+2025-04-02 01:08:30,998 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (X11; Linux x86_64...
+2025-04-02 01:09:32,535 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 01:10:20,911 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Macintosh; Intel ...
+2025-04-02 01:11:16,017 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 01:12:31,957 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (X11; Linux x86_64...
+2025-04-02 01:13:21,011 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 01:14:01,881 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Linux; Android 10...
+2025-04-02 01:14:55,373 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 01:15:33,039 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-02 01:16:10,305 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Linux; Android 10...
+2025-04-02 01:16:43,307 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 01:17:44,839 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (Linux; Android 10...
+2025-04-02 01:19:05,870 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon...
