@@ -1,8 +1,9 @@
+import threading
+import time
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from fake_useragent import UserAgent
 import random
-import time
 import logging
 from concurrent.futures import ThreadPoolExecutor
 
@@ -27,11 +28,15 @@ class TrafficGenerator:
             None  # Direct traffic
         ]
         self.ua = UserAgent()
+        self.stop_event = threading.Event()  # Event to signal stop
 
     def get_random_user_agent(self):
         return self.ua.random
 
     def simulate_session(self):
+        if self.stop_event.is_set():  # Check if stop event is set
+            return False
+
         options = Options()
         options.headless = True  # Run in headless mode
         options.add_argument("--disable-blink-features=AutomationControlled")
@@ -80,8 +85,6 @@ class TrafficGenerator:
         logging.info(f"Traffic generation complete. Successful: {successful}, Failed: {failed}")
         return successful, failed
 
-if __name__ == "__main__":
-    TARGET_WEBSITE = "https://luxeessentiial.myshopify.com"
-    traffic_gen = TrafficGenerator(target_url=TARGET_WEBSITE)
-    successful, failed = traffic_gen.generate_traffic(num_sessions=50, max_concurrent=5)
-    print(f"Traffic generation complete! Successful sessions: {successful}, Failed sessions: {failed}")
+    def stop(self):
+        self.stop_event.set()  # Trigger the stop event
+

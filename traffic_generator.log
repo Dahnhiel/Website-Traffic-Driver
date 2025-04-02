@@ -336,3 +336,242 @@ Stacktrace:
 2025-04-02 01:53:03,309 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon...
 2025-04-02 01:53:12,249 - INFO - Visited: https://luxeessentiial.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon...
 2025-04-02 01:53:14,886 - INFO - Traffic generation complete. Successful: 49, Failed: 1
+2025-04-02 02:14:30,703 - INFO - Starting traffic generation: 50 sessions to https://luxeessentiial.myshopify.com/
+2025-04-02 02:17:05,812 - ERROR - Session error: HTTPConnectionPool(host='localhost', port=63117): Read timed out. (read timeout=120)
+2025-04-02 02:17:13,457 - ERROR - Session error: HTTPConnectionPool(host='localhost', port=63116): Read timed out. (read timeout=120)
+2025-04-02 02:17:13,487 - ERROR - Session error: HTTPConnectionPool(host='localhost', port=63118): Read timed out. (read timeout=120)
+2025-04-02 02:17:13,493 - ERROR - Session error: HTTPConnectionPool(host='localhost', port=63119): Read timed out. (read timeout=120)
+2025-04-02 02:17:32,892 - ERROR - Session error: HTTPConnectionPool(host='localhost', port=63115): Read timed out. (read timeout=120)
+2025-04-02 02:17:43,143 - INFO - Visited: https://luxeessentiial.myshopify.com/ | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 02:18:02,385 - INFO - Visited: https://luxeessentiial.myshopify.com/ | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 02:18:19,231 - INFO - Visited: https://luxeessentiial.myshopify.com/ | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 02:18:31,002 - INFO - Visited: https://luxeessentiial.myshopify.com/ | UA: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-02 02:18:34,544 - INFO - Visited: https://luxeessentiial.myshopify.com/ | UA: Mozilla/5.0 (Linux; Android 10...
+2025-04-02 02:19:14,596 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=63116): Read timed out. (read timeout=120)")': /session/9d038e7174c8993159a9cf5772bb3344
+2025-04-02 02:21:06,517 - INFO - Visited: https://luxeessentiial.myshopify.com/ | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 02:21:08,954 - INFO - Visited: https://luxeessentiial.myshopify.com/ | UA: Mozilla/5.0 (X11; Linux x86_64...
+2025-04-02 02:21:13,045 - INFO - Visited: https://luxeessentiial.myshopify.com/ | UA: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-02 02:21:14,781 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=63116): Read timed out. (read timeout=120)")': /session/9d038e7174c8993159a9cf5772bb3344
+2025-04-02 02:21:28,722 - INFO - Visited: https://luxeessentiial.myshopify.com/ | UA: Mozilla/5.0 (Linux; Android 10...
+2025-04-02 02:21:34,791 - INFO - Visited: https://luxeessentiial.myshopify.com/ | UA: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-02 02:22:06,829 - INFO - Visited: https://luxeessentiial.myshopify.com/ | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 02:22:56,011 - INFO - Visited: https://luxeessentiial.myshopify.com/ | UA: Mozilla/5.0 (X11; CrOS x86_64 ...
+2025-04-02 02:23:02,443 - INFO - Visited: https://luxeessentiial.myshopify.com/ | UA: Mozilla/5.0 (X11; CrOS x86_64 ...
+2025-04-02 02:24:36,824 - INFO - Visited: https://luxeessentiial.myshopify.com/ | UA: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-02 02:25:28,047 - INFO - Visited: https://luxeessentiial.myshopify.com/ | UA: Mozilla/5.0 (Macintosh; Intel ...
+2025-04-02 02:25:36,649 - ERROR - Session error: HTTPConnectionPool(host='localhost', port=64359): Read timed out. (read timeout=120)
+2025-04-02 02:25:44,379 - INFO - Visited: https://luxeessentiial.myshopify.com/ | UA: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-02 02:25:45,134 - INFO - Visited: https://luxeessentiial.myshopify.com/ | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 02:25:51,161 - INFO - Visited: https://luxeessentiial.myshopify.com/ | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 02:25:51,336 - INFO - Visited: https://luxeessentiial.myshopify.com/ | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 02:26:09,386 - INFO - Visited: https://luxeessentiial.myshopify.com/ | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 02:26:44,951 - INFO - Visited: https://luxeessentiial.myshopify.com/ | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 02:26:54,829 - INFO - Visited: https://luxeessentiial.myshopify.com/ | UA: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-02 02:27:22,366 - ERROR - Session error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-04-02 02:27:27,020 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001968E968850>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/61b6a0efd2d894dd4aa050f87f5ffbea
+2025-04-02 02:27:31,811 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019690FD5550>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/61b6a0efd2d894dd4aa050f87f5ffbea
+2025-04-02 02:27:31,926 - ERROR - Session error: Message: target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: chrome=134.0.6998.178)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6143C4C25+3179557]
+	(No symbol) [0x00007FF6140288A0]
+	(No symbol) [0x00007FF613EB8FFC]
+	(No symbol) [0x00007FF613EA62DB]
+	(No symbol) [0x00007FF613EA518E]
+	(No symbol) [0x00007FF613EC9F94]
+	(No symbol) [0x00007FF613EC92C5]
+	(No symbol) [0x00007FF613EC941B]
+	(No symbol) [0x00007FF613F60667]
+	(No symbol) [0x00007FF613F37A03]
+	(No symbol) [0x00007FF613F006D0]
+	(No symbol) [0x00007FF613F01983]
+	GetHandleVerifier [0x00007FF6144267CD+3579853]
+	GetHandleVerifier [0x00007FF61443D1D2+3672530]
+	GetHandleVerifier [0x00007FF614432153+3627347]
+	GetHandleVerifier [0x00007FF61419092A+868650]
+	(No symbol) [0x00007FF614032FFF]
+	(No symbol) [0x00007FF61402F4A4]
+	(No symbol) [0x00007FF61402F646]
+	(No symbol) [0x00007FF61401EAA9]
+	BaseThreadInitThunk [0x00007FFC3A6C7374+20]
+	RtlUserThreadStart [0x00007FFC3C63CC91+33]
+
+2025-04-02 02:27:36,440 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019690FD5D50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/61b6a0efd2d894dd4aa050f87f5ffbea
+2025-04-02 02:27:36,666 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=64359): Read timed out. (read timeout=120)")': /session/882f1422ba90bb1ba4a737fc7a3b0630
+2025-04-02 03:21:17,513 - INFO - Starting traffic generation: 50 sessions to https://innovators-five.vercel.app/
+2025-04-02 03:25:59,889 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (Windows NT 6.1; W...
+2025-04-02 03:26:21,733 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (X11; CrOS x86_64 ...
+2025-04-02 03:26:32,269 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-02 03:26:46,498 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 03:27:21,193 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 03:28:23,097 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 03:28:34,830 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (Linux; Android 10...
+2025-04-02 03:28:56,742 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 03:29:25,260 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-02 03:30:15,723 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (Macintosh; Intel ...
+2025-04-02 03:31:02,888 - ERROR - Session error: HTTPConnectionPool(host='localhost', port=64224): Read timed out. (read timeout=120)
+2025-04-02 03:31:19,603 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-02 03:31:41,801 - ERROR - Session error: HTTPConnectionPool(host='localhost', port=64322): Read timed out. (read timeout=120)
+2025-04-02 03:31:57,918 - ERROR - Session error: HTTPConnectionPool(host='localhost', port=64323): Read timed out. (read timeout=120)
+2025-04-02 03:32:29,560 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 03:32:36,575 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 03:32:53,398 - ERROR - Session error: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=134.0.6998.178)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7928C4C25+3179557]
+	(No symbol) [0x00007FF7925288A0]
+	(No symbol) [0x00007FF7923B91CA]
+	(No symbol) [0x00007FF7923B5B57]
+	(No symbol) [0x00007FF7923A68E9]
+	(No symbol) [0x00007FF7923A8658]
+	(No symbol) [0x00007FF7923A6BF6]
+	(No symbol) [0x00007FF7923A6676]
+	(No symbol) [0x00007FF7923A633A]
+	(No symbol) [0x00007FF7923A3EC2]
+	(No symbol) [0x00007FF7923A47AC]
+	(No symbol) [0x00007FF7923BD01A]
+	(No symbol) [0x00007FF7924611AE]
+	(No symbol) [0x00007FF792437C2A]
+	(No symbol) [0x00007FF7924602F3]
+	(No symbol) [0x00007FF792437A03]
+	(No symbol) [0x00007FF7924006D0]
+	(No symbol) [0x00007FF792401983]
+	GetHandleVerifier [0x00007FF7929267CD+3579853]
+	GetHandleVerifier [0x00007FF79293D1D2+3672530]
+	GetHandleVerifier [0x00007FF792932153+3627347]
+	GetHandleVerifier [0x00007FF79269092A+868650]
+	(No symbol) [0x00007FF792532FFF]
+	(No symbol) [0x00007FF79252F4A4]
+	(No symbol) [0x00007FF79252F646]
+	(No symbol) [0x00007FF79251EAA9]
+	BaseThreadInitThunk [0x00007FFC3A6C7374+20]
+	RtlUserThreadStart [0x00007FFC3C63CC91+33]
+
+2025-04-02 03:32:54,318 - ERROR - Session error: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=134.0.6998.178)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7928C4C25+3179557]
+	(No symbol) [0x00007FF7925288A0]
+	(No symbol) [0x00007FF7923B91CA]
+	(No symbol) [0x00007FF7923B5B57]
+	(No symbol) [0x00007FF7923A68E9]
+	(No symbol) [0x00007FF7923A8658]
+	(No symbol) [0x00007FF7923A6BF6]
+	(No symbol) [0x00007FF7923A6676]
+	(No symbol) [0x00007FF7923A633A]
+	(No symbol) [0x00007FF7923A3EC2]
+	(No symbol) [0x00007FF7923A47AC]
+	(No symbol) [0x00007FF7923BD01A]
+	(No symbol) [0x00007FF7924611AE]
+	(No symbol) [0x00007FF792437C2A]
+	(No symbol) [0x00007FF7924602F3]
+	(No symbol) [0x00007FF792437A03]
+	(No symbol) [0x00007FF7924006D0]
+	(No symbol) [0x00007FF792401983]
+	GetHandleVerifier [0x00007FF7929267CD+3579853]
+	GetHandleVerifier [0x00007FF79293D1D2+3672530]
+	GetHandleVerifier [0x00007FF792932153+3627347]
+	GetHandleVerifier [0x00007FF79269092A+868650]
+	(No symbol) [0x00007FF792532FFF]
+	(No symbol) [0x00007FF79252F4A4]
+	(No symbol) [0x00007FF79252F646]
+	(No symbol) [0x00007FF79251EAA9]
+	BaseThreadInitThunk [0x00007FFC3A6C7374+20]
+	RtlUserThreadStart [0x00007FFC3C63CC91+33]
+
+2025-04-02 03:33:00,751 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (X11; CrOS x86_64 ...
+2025-04-02 03:33:30,370 - ERROR - Session error: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=134.0.6998.178)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7928C4C25+3179557]
+	(No symbol) [0x00007FF7925288A0]
+	(No symbol) [0x00007FF7923B91CA]
+	(No symbol) [0x00007FF7923B5B57]
+	(No symbol) [0x00007FF7923A68E9]
+	(No symbol) [0x00007FF7923A8658]
+	(No symbol) [0x00007FF7923A6BF6]
+	(No symbol) [0x00007FF7923A6676]
+	(No symbol) [0x00007FF7923A633A]
+	(No symbol) [0x00007FF7923A3EC2]
+	(No symbol) [0x00007FF7923A47AC]
+	(No symbol) [0x00007FF7923BD01A]
+	(No symbol) [0x00007FF7924611AE]
+	(No symbol) [0x00007FF792437C2A]
+	(No symbol) [0x00007FF7924602F3]
+	(No symbol) [0x00007FF792437A03]
+	(No symbol) [0x00007FF7924006D0]
+	(No symbol) [0x00007FF792401983]
+	GetHandleVerifier [0x00007FF7929267CD+3579853]
+	GetHandleVerifier [0x00007FF79293D1D2+3672530]
+	GetHandleVerifier [0x00007FF792932153+3627347]
+	GetHandleVerifier [0x00007FF79269092A+868650]
+	(No symbol) [0x00007FF792532FFF]
+	(No symbol) [0x00007FF79252F4A4]
+	(No symbol) [0x00007FF79252F646]
+	(No symbol) [0x00007FF79251EAA9]
+	BaseThreadInitThunk [0x00007FFC3A6C7374+20]
+	RtlUserThreadStart [0x00007FFC3C63CC91+33]
+
+2025-04-02 03:33:34,964 - ERROR - Session error: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=134.0.6998.178)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7928C4C25+3179557]
+	(No symbol) [0x00007FF7925288A0]
+	(No symbol) [0x00007FF7923B91CA]
+	(No symbol) [0x00007FF7923B5B57]
+	(No symbol) [0x00007FF7923A68E9]
+	(No symbol) [0x00007FF7923A8658]
+	(No symbol) [0x00007FF7923A6BF6]
+	(No symbol) [0x00007FF7923A6676]
+	(No symbol) [0x00007FF7923A633A]
+	(No symbol) [0x00007FF7923A3EC2]
+	(No symbol) [0x00007FF7923A47AC]
+	(No symbol) [0x00007FF7923BD01A]
+	(No symbol) [0x00007FF7924611AE]
+	(No symbol) [0x00007FF792437C2A]
+	(No symbol) [0x00007FF7924602F3]
+	(No symbol) [0x00007FF792437A03]
+	(No symbol) [0x00007FF7924006D0]
+	(No symbol) [0x00007FF792401983]
+	GetHandleVerifier [0x00007FF7929267CD+3579853]
+	GetHandleVerifier [0x00007FF79293D1D2+3672530]
+	GetHandleVerifier [0x00007FF792932153+3627347]
+	GetHandleVerifier [0x00007FF79269092A+868650]
+	(No symbol) [0x00007FF792532FFF]
+	(No symbol) [0x00007FF79252F4A4]
+	(No symbol) [0x00007FF79252F646]
+	(No symbol) [0x00007FF79251EAA9]
+	BaseThreadInitThunk [0x00007FFC3A6C7374+20]
+	RtlUserThreadStart [0x00007FFC3C63CC91+33]
+
+2025-04-02 03:33:36,311 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-02 03:33:37,197 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-02 03:35:21,179 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-02 03:35:51,686 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (Linux; Android 10...
+2025-04-02 03:36:00,018 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (X11; CrOS x86_64 ...
+2025-04-02 03:36:33,382 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-02 03:36:34,963 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 03:38:18,717 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 03:38:19,896 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 03:38:23,128 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 03:39:08,424 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (Macintosh; Intel ...
+2025-04-02 03:40:45,894 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-02 03:40:50,153 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (Macintosh; Intel ...
+2025-04-02 03:40:55,284 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (Linux; Android 10...
+2025-04-02 03:40:56,415 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (Linux; Android 10...
+2025-04-02 03:40:59,653 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 03:42:29,114 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-02 03:42:33,087 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 03:42:33,383 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 03:42:34,230 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (Macintosh; Intel ...
+2025-04-02 03:44:00,704 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (Macintosh; Intel ...
+2025-04-02 03:44:16,859 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 03:44:21,780 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (Macintosh; Intel ...
+2025-04-02 03:45:28,359 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-02 03:46:12,444 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 03:46:16,387 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (Macintosh; Intel ...
+2025-04-02 03:46:20,830 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (Windows NT 10.0; ...
+2025-04-02 03:47:46,004 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (iPhone; CPU iPhon...
+2025-04-02 03:47:46,946 - INFO - Visited: https://innovators-five.vercel.app/ | UA: Mozilla/5.0 (X11; CrOS x86_64 ...
+2025-04-02 03:47:51,821 - INFO - Traffic generation complete. Successful: 43, Failed: 7
