@@ -1,11 +1,10 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
+from fake_useragent import UserAgent
 import random
 import time
 import logging
-from fake_useragent import UserAgent
+from concurrent.futures import ThreadPoolExecutor
 
 # Set up logging
 logging.basicConfig(
@@ -31,7 +30,7 @@ class TrafficGenerator:
 
     def get_random_user_agent(self):
         return self.ua.random
-    
+
     def simulate_session(self):
         options = Options()
         options.headless = True  # Run in headless mode
@@ -64,22 +63,25 @@ class TrafficGenerator:
             return False
         finally:
             driver.quit()
-    
-    def generate_traffic(self, num_sessions=100):
+
+    def generate_traffic(self, num_sessions=100, max_concurrent=5):
         logging.info(f"Starting traffic generation: {num_sessions} sessions to {self.target_url}")
         successful = 0
         failed = 0
-        for _ in range(num_sessions):
-            if self.simulate_session():
-                successful += 1
-            else:
-                failed += 1
-            time.sleep(random.uniform(5, 15))  # Wait before next session
+        
+        # Using ThreadPoolExecutor to run simulate_session concurrently
+        with ThreadPoolExecutor(max_workers=max_concurrent) as executor:
+            results = list(executor.map(lambda _: self.simulate_session(), range(num_sessions)))
+
+        # Count the successful and failed sessions
+        successful = results.count(True)
+        failed = results.count(False)
+
         logging.info(f"Traffic generation complete. Successful: {successful}, Failed: {failed}")
         return successful, failed
 
 if __name__ == "__main__":
     TARGET_WEBSITE = "https://luxeessentiial.myshopify.com"
     traffic_gen = TrafficGenerator(target_url=TARGET_WEBSITE)
-    successful, failed = traffic_gen.generate_traffic(num_sessions=50)
+    successful, failed = traffic_gen.generate_traffic(num_sessions=50, max_concurrent=5)
     print(f"Traffic generation complete! Successful sessions: {successful}, Failed sessions: {failed}")
