@@ -7579,3 +7579,9 @@ Stacktrace:
 2025-06-12 23:54:21,364 - INFO - Session 14: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 80.91s
 2025-06-12 23:55:45,215 - INFO - Session 17: Success | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb... | Pages: 1 | Duration: 79.65s
 2025-06-12 23:55:51,757 - INFO - Session 15: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 120.66s
+2025-06-12 23:55:59,828 - INFO - Session 16: Success | UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Ap... | Pages: 1 | Duration: 122.38s
+2025-06-12 23:58:06,245 - INFO - Stop signal sent to traffic generator
+2025-06-12 23:58:13,444 - INFO - Session 18: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 137.24s
+2025-06-12 23:58:23,692 - INFO - Session 19: Success | UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Ap... | Pages: 1 | Duration: 142.57s
+2025-06-12 23:59:17,966 - INFO - Traffic generation complete. Successful: 16, Failed: 2
+2025-06-12 23:59:58,980 - INFO - Starting enhanced traffic generation: 50 sessions to https://luxeessentiial.myshopify.com/
