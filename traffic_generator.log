@@ -7560,3 +7560,22 @@ Stacktrace:
 2025-06-10 23:26:47,090 - INFO - Visited: https://sta73g-et.myshopify.com | UA: Mozilla/5.0 (iPhone; CPU iPhon...
 2025-06-10 23:27:52,553 - ERROR - Session error: HTTPConnectionPool(host='localhost', port=53003): Read timed out. (read timeout=120)
 2025-06-10 23:28:47,434 - INFO - Traffic generation complete. Successful: 9, Failed: 1
+2025-06-12 23:44:32,201 - INFO - Starting enhanced traffic generation: 50 sessions to https://luxessentiials.myshopify.com
+2025-06-12 23:46:32,290 - ERROR - Session execution error: 
+2025-06-12 23:48:20,862 - INFO - Session 2: Success | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb... | Pages: 1 | Duration: 228.58s
+2025-06-12 23:48:23,887 - INFO - Session 1: Success | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb... | Pages: 1 | Duration: 231.63s
+2025-06-12 23:48:26,883 - INFO - Session 3: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 234.60s
+2025-06-12 23:49:04,799 - INFO - Session 4: Success | UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Ap... | Pages: 1 | Duration: 40.13s
+2025-06-12 23:49:23,785 - INFO - Session 5: Success | UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Ap... | Pages: 1 | Duration: 51.49s
+2025-06-12 23:49:43,623 - INFO - Session 6: Success | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb... | Pages: 1 | Duration: 71.33s
+2025-06-12 23:51:40,338 - INFO - Session 7: Success | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537... | Pages: 1 | Duration: 152.98s
+2025-06-12 23:51:45,740 - INFO - Session 9: Success | UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Ap... | Pages: 1 | Duration: 118.94s
+2025-06-12 23:51:46,840 - ERROR - Session execution error: 
+2025-06-12 23:52:08,942 - INFO - Session 8: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 162.07s
+2025-06-12 23:52:47,544 - INFO - Session 10: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac... | Pages: 1 | Duration: 60.57s
+2025-06-12 23:52:54,777 - INFO - Session 11: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 16_2 like Mac O... | Pages: 1 | Duration: 62.98s
+2025-06-12 23:53:43,348 - INFO - Session 13: Success | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb... | Pages: 1 | Duration: 49.29s
+2025-06-12 23:53:45,331 - INFO - Session 12: Success | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb... | Pages: 1 | Duration: 87.54s
+2025-06-12 23:54:21,364 - INFO - Session 14: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 80.91s
+2025-06-12 23:55:45,215 - INFO - Session 17: Success | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb... | Pages: 1 | Duration: 79.65s
+2025-06-12 23:55:51,757 - INFO - Session 15: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 120.66s
