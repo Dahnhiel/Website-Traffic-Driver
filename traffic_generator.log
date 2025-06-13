@@ -7585,3 +7585,218 @@ Stacktrace:
 2025-06-12 23:58:23,692 - INFO - Session 19: Success | UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Ap... | Pages: 1 | Duration: 142.57s
 2025-06-12 23:59:17,966 - INFO - Traffic generation complete. Successful: 16, Failed: 2
 2025-06-12 23:59:58,980 - INFO - Starting enhanced traffic generation: 50 sessions to https://luxeessentiial.myshopify.com/
+2025-06-13 00:01:59,062 - ERROR - Session execution error: 
+2025-06-13 00:02:11,118 - ERROR - Session 3 error: HTTPConnectionPool(host='localhost', port=44387): Read timed out. (read timeout=120)
+2025-06-13 00:02:57,915 - ERROR - Session 5 error: Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=137.0.7151.69)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff76849fe75+79173]
+	GetHandleVerifier [0x0x7ff76849fed0+79264]
+	(No symbol) [0x0x7ff768259e5a]
+	(No symbol) [0x0x7ff768256874]
+	(No symbol) [0x0x7ff768247589]
+	(No symbol) [0x0x7ff768249331]
+	(No symbol) [0x0x7ff7682478a6]
+	(No symbol) [0x0x7ff768247306]
+	(No symbol) [0x0x7ff768246fca]
+	(No symbol) [0x0x7ff768244b9f]
+	(No symbol) [0x0x7ff76824541c]
+	(No symbol) [0x0x7ff76825de0a]
+	(No symbol) [0x0x7ff768301dfe]
+	(No symbol) [0x0x7ff7682d896a]
+	(No symbol) [0x0x7ff76830100d]
+	(No symbol) [0x0x7ff7682d8743]
+	(No symbol) [0x0x7ff7682a14c1]
+	(No symbol) [0x0x7ff7682a2253]
+	GetHandleVerifier [0x0x7ff76876a2ad+3004797]
+	GetHandleVerifier [0x0x7ff7687646fd+2981325]
+	GetHandleVerifier [0x0x7ff768783350+3107360]
+	GetHandleVerifier [0x0x7ff7684ba9fe+188622]
+	GetHandleVerifier [0x0x7ff7684c228f+219487]
+	GetHandleVerifier [0x0x7ff7684a8dc4+115860]
+	GetHandleVerifier [0x0x7ff7684a8f79+116297]
+	GetHandleVerifier [0x0x7ff76848f528+11256]
+	BaseThreadInitThunk [0x0x7ffdd6527374+20]
+	RtlUserThreadStart [0x0x7ffdd6e5cc91+33]
+
+2025-06-13 00:03:18,066 - ERROR - Session 4 error: Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=137.0.7151.69)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff76849fe75+79173]
+	GetHandleVerifier [0x0x7ff76849fed0+79264]
+	(No symbol) [0x0x7ff768259e5a]
+	(No symbol) [0x0x7ff768256874]
+	(No symbol) [0x0x7ff768247589]
+	(No symbol) [0x0x7ff768249331]
+	(No symbol) [0x0x7ff7682478a6]
+	(No symbol) [0x0x7ff768247306]
+	(No symbol) [0x0x7ff768246fca]
+	(No symbol) [0x0x7ff768244b9f]
+	(No symbol) [0x0x7ff76824541c]
+	(No symbol) [0x0x7ff76825de0a]
+	(No symbol) [0x0x7ff768301dfe]
+	(No symbol) [0x0x7ff7682d896a]
+	(No symbol) [0x0x7ff76830100d]
+	(No symbol) [0x0x7ff7682d8743]
+	(No symbol) [0x0x7ff7682a14c1]
+	(No symbol) [0x0x7ff7682a2253]
+	GetHandleVerifier [0x0x7ff76876a2ad+3004797]
+	GetHandleVerifier [0x0x7ff7687646fd+2981325]
+	GetHandleVerifier [0x0x7ff768783350+3107360]
+	GetHandleVerifier [0x0x7ff7684ba9fe+188622]
+	GetHandleVerifier [0x0x7ff7684c228f+219487]
+	GetHandleVerifier [0x0x7ff7684a8dc4+115860]
+	GetHandleVerifier [0x0x7ff7684a8f79+116297]
+	GetHandleVerifier [0x0x7ff76848f528+11256]
+	BaseThreadInitThunk [0x0x7ffdd6527374+20]
+	RtlUserThreadStart [0x0x7ffdd6e5cc91+33]
+
+2025-06-13 00:03:28,439 - ERROR - Session 1 error: HTTPConnectionPool(host='localhost', port=44388): Read timed out. (read timeout=120)
+2025-06-13 00:03:40,327 - ERROR - Session 2 error: Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=137.0.7151.69)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff76849fe75+79173]
+	GetHandleVerifier [0x0x7ff76849fed0+79264]
+	(No symbol) [0x0x7ff768259e5a]
+	(No symbol) [0x0x7ff768256874]
+	(No symbol) [0x0x7ff768247589]
+	(No symbol) [0x0x7ff768249331]
+	(No symbol) [0x0x7ff7682478a6]
+	(No symbol) [0x0x7ff768247306]
+	(No symbol) [0x0x7ff768246fca]
+	(No symbol) [0x0x7ff768244b9f]
+	(No symbol) [0x0x7ff76824541c]
+	(No symbol) [0x0x7ff76825de0a]
+	(No symbol) [0x0x7ff768301dfe]
+	(No symbol) [0x0x7ff7682d896a]
+	(No symbol) [0x0x7ff76830100d]
+	(No symbol) [0x0x7ff7682d8743]
+	(No symbol) [0x0x7ff7682a14c1]
+	(No symbol) [0x0x7ff7682a2253]
+	GetHandleVerifier [0x0x7ff76876a2ad+3004797]
+	GetHandleVerifier [0x0x7ff7687646fd+2981325]
+	GetHandleVerifier [0x0x7ff768783350+3107360]
+	GetHandleVerifier [0x0x7ff7684ba9fe+188622]
+	GetHandleVerifier [0x0x7ff7684c228f+219487]
+	GetHandleVerifier [0x0x7ff7684a8dc4+115860]
+	GetHandleVerifier [0x0x7ff7684a8f79+116297]
+	GetHandleVerifier [0x0x7ff76848f528+11256]
+	BaseThreadInitThunk [0x0x7ffdd6527374+20]
+	RtlUserThreadStart [0x0x7ffdd6e5cc91+33]
+
+2025-06-13 00:05:30,297 - ERROR - Session 10 error: Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=137.0.7151.69)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff76849fe75+79173]
+	GetHandleVerifier [0x0x7ff76849fed0+79264]
+	(No symbol) [0x0x7ff768259e5a]
+	(No symbol) [0x0x7ff768256874]
+	(No symbol) [0x0x7ff768247589]
+	(No symbol) [0x0x7ff768249331]
+	(No symbol) [0x0x7ff7682478a6]
+	(No symbol) [0x0x7ff768247306]
+	(No symbol) [0x0x7ff768246fca]
+	(No symbol) [0x0x7ff768244b9f]
+	(No symbol) [0x0x7ff76824541c]
+	(No symbol) [0x0x7ff76825de0a]
+	(No symbol) [0x0x7ff768301dfe]
+	(No symbol) [0x0x7ff7682d896a]
+	(No symbol) [0x0x7ff76830100d]
+	(No symbol) [0x0x7ff7682d8743]
+	(No symbol) [0x0x7ff7682a14c1]
+	(No symbol) [0x0x7ff7682a2253]
+	GetHandleVerifier [0x0x7ff76876a2ad+3004797]
+	GetHandleVerifier [0x0x7ff7687646fd+2981325]
+	GetHandleVerifier [0x0x7ff768783350+3107360]
+	GetHandleVerifier [0x0x7ff7684ba9fe+188622]
+	GetHandleVerifier [0x0x7ff7684c228f+219487]
+	GetHandleVerifier [0x0x7ff7684a8dc4+115860]
+	GetHandleVerifier [0x0x7ff7684a8f79+116297]
+	GetHandleVerifier [0x0x7ff76848f528+11256]
+	BaseThreadInitThunk [0x0x7ffdd6527374+20]
+	RtlUserThreadStart [0x0x7ffdd6e5cc91+33]
+
+2025-06-13 00:05:32,043 - INFO - Session 6: Success | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537... | Pages: 1 | Duration: 181.69s
+2025-06-13 00:06:00,855 - INFO - Session 7: Success | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb... | Pages: 1 | Duration: 175.93s
+2025-06-13 00:06:25,552 - INFO - Session 9: Success | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537... | Pages: 1 | Duration: 160.00s
+2025-06-13 00:06:53,413 - INFO - Session 8: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 209.39s
+2025-06-13 00:07:56,662 - INFO - Session 11: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 134.81s
+2025-06-13 00:09:12,953 - INFO - Session 14: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac... | Pages: 1 | Duration: 83.17s
+2025-06-13 00:09:38,598 - INFO - Session 12: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac... | Pages: 2 | Duration: 232.29s
+2025-06-13 00:09:47,483 - INFO - Session 15: Success | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb... | Pages: 1 | Duration: 92.05s
+2025-06-13 00:10:42,767 - INFO - Session 16: Success | UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Ap... | Pages: 1 | Duration: 100.60s
+2025-06-13 00:11:44,039 - INFO - Session 17: Success | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb... | Pages: 1 | Duration: 63.32s
+2025-06-13 00:11:53,030 - ERROR - Session 13 error: HTTPConnectionPool(host='localhost', port=45377): Read timed out. (read timeout=120)
+2025-06-13 00:12:06,747 - INFO - Session 18: Success | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537... | Pages: 1 | Duration: 65.10s
+2025-06-13 00:12:51,886 - INFO - Session 19: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 101.54s
+2025-06-13 00:13:01,673 - ERROR - Session execution error: 
+2025-06-13 00:13:44,313 - INFO - Session 20: Success | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0... | Pages: 1 | Duration: 95.12s
+2025-06-13 00:14:53,551 - INFO - Session 25: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 53.82s
+2025-06-13 00:15:18,976 - INFO - Session 23: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac... | Pages: 1 | Duration: 79.25s
+2025-06-13 00:15:25,754 - INFO - Session 21: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 86.02s
+2025-06-13 00:15:27,625 - INFO - Session 22: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 87.89s
+2025-06-13 00:15:40,262 - INFO - Session 24: Success | UA: Mozilla/5.0 (Android 14; Mobile; rv:135.0) Gecko/1... | Pages: 1 | Duration: 100.53s
+2025-06-13 00:15:52,562 - INFO - Session 26: Success | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537... | Pages: 1 | Duration: 30.03s
+2025-06-13 00:18:06,880 - INFO - Session 28: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 146.12s
+2025-06-13 00:18:25,158 - INFO - Session 31: Success | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537... | Pages: 1 | Duration: 130.80s
+2025-06-13 00:18:27,515 - ERROR - Session execution error: 
+2025-06-13 00:18:47,148 - INFO - Session 29: Success | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb... | Pages: 1 | Duration: 181.26s
+2025-06-13 00:18:47,365 - INFO - Session 30: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 181.48s
+2025-06-13 00:18:57,380 - INFO - Session 27: Success | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537... | Pages: 1 | Duration: 213.53s
+2025-06-13 00:19:51,704 - INFO - Session 32: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 67.46s
+2025-06-13 00:20:56,673 - INFO - Session 33: Success | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537... | Pages: 1 | Duration: 102.53s
+2025-06-13 00:21:00,128 - INFO - Session 34: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 89.71s
+2025-06-13 00:22:05,714 - INFO - Session 37: Success | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537... | Pages: 1 | Duration: 56.51s
+2025-06-13 00:22:35,850 - INFO - Session 35: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 181.09s
+2025-06-13 00:23:24,231 - INFO - Session 36: Success | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb... | Pages: 2 | Duration: 228.16s
+2025-06-13 00:23:26,225 - INFO - Session 39: Success | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537... | Pages: 1 | Duration: 77.26s
+2025-06-13 00:23:51,490 - INFO - Session 38: Success | UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Ap... | Pages: 1 | Duration: 105.44s
+2025-06-13 00:25:06,462 - INFO - Session 40: Success | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537... | Pages: 1 | Duration: 173.21s
+2025-06-13 00:25:15,823 - INFO - Session 41: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 80.49s
+2025-06-13 00:26:20,621 - INFO - Session 43: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 105.91s
+2025-06-13 00:26:34,403 - INFO - Session 42: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 123.16s
+2025-06-13 00:27:01,024 - INFO - Session 44: Success | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb... | Pages: 1 | Duration: 131.55s
+2025-06-13 00:28:05,260 - INFO - Session 45: Success | UA: Mozilla/5.0 (Linux; Android 9; KFTRWI) AppleWebKit... | Pages: 1 | Duration: 90.35s
+2025-06-13 00:29:06,854 - INFO - Session 46: Success | UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36... | Pages: 1 | Duration: 145.05s
+2025-06-13 00:29:08,217 - INFO - Session 47: Success | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb... | Pages: 1 | Duration: 93.20s
+2025-06-13 00:29:26,744 - INFO - Session 48: Success | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0... | Pages: 1 | Duration: 93.34s
+2025-06-13 00:30:08,567 - INFO - Session 49: Success | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb... | Pages: 1 | Duration: 111.02s
+2025-06-13 00:30:28,881 - INFO - Session 50: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 70.07s
+2025-06-13 00:30:32,051 - INFO - Traffic generation complete. Successful: 42, Failed: 8
+2025-06-13 00:42:42,722 - INFO - Starting enhanced traffic generation: 50 sessions to https://luxeessentiial.myshopify.com/
+2025-06-13 00:44:44,291 - ERROR - Session execution error: 
+2025-06-13 00:44:50,177 - INFO - Session 4: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 127.28s
+2025-06-13 00:44:51,386 - INFO - Session 2: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 128.58s
+2025-06-13 00:45:15,981 - INFO - Session 5: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 153.12s
+2025-06-13 00:45:19,618 - INFO - Session 3: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 2 | Duration: 156.79s
+2025-06-13 00:45:45,031 - INFO - Session 1: Success | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb... | Pages: 1 | Duration: 182.24s
+2025-06-13 00:46:55,552 - INFO - Session 6: Success | UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Ap... | Pages: 1 | Duration: 83.77s
+2025-06-13 00:46:57,254 - INFO - Session 9: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_0 like Mac... | Pages: 1 | Duration: 76.54s
+2025-06-13 00:48:19,122 - INFO - Session 12: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 73.83s
+2025-06-13 00:48:20,688 - INFO - Session 7: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 164.74s
+2025-06-13 00:48:25,268 - INFO - Session 8: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 2 | Duration: 168.57s
+2025-06-13 00:48:36,814 - INFO - Session 11: Success | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb... | Pages: 1 | Duration: 91.54s
+2025-06-13 00:48:41,386 - INFO - Session 10: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 99.68s
+2025-06-13 00:49:58,359 - INFO - Session 13: Success | UA: Mozilla/5.0 (iPad; CPU OS 18_3_1 like Mac OS X) Ap... | Pages: 1 | Duration: 85.32s
+2025-06-13 00:50:34,464 - INFO - Session 15: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac... | Pages: 1 | Duration: 119.82s
+2025-06-13 00:50:42,363 - INFO - Session 14: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 2 | Duration: 129.15s
+2025-06-13 00:51:24,729 - INFO - Session 16: Success | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537... | Pages: 2 | Duration: 144.76s
+2025-06-13 00:51:45,080 - INFO - Session 18: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac... | Pages: 1 | Duration: 60.96s
+2025-06-13 00:51:57,355 - INFO - Session 19: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 71.26s
+2025-06-13 00:51:59,971 - INFO - Session 20: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 73.32s
+2025-06-13 00:52:22,397 - INFO - Session 17: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_1 like Mac... | Pages: 2 | Duration: 185.34s
+2025-06-13 00:53:09,765 - INFO - Session 21: Success | UA: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537... | Pages: 1 | Duration: 62.92s
+2025-06-13 00:53:19,187 - INFO - Session 23: Success | UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:1... | Pages: 1 | Duration: 70.88s
+2025-06-13 00:53:50,314 - INFO - Session 24: Success | UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Ap... | Pages: 1 | Duration: 101.34s
+2025-06-13 00:54:01,140 - INFO - Session 22: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 113.36s
+2025-06-13 00:54:15,901 - INFO - Session 25: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 52.70s
+2025-06-13 00:54:27,762 - INFO - Session 26: Success | UA: Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebK... | Pages: 1 | Duration: 64.31s
+2025-06-13 00:54:53,503 - INFO - Session 27: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 79.36s
+2025-06-13 00:55:10,127 - INFO - Session 30: Success | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb... | Pages: 1 | Duration: 51.47s
+2025-06-13 00:55:58,050 - INFO - Session 28: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_0_1 like Mac... | Pages: 1 | Duration: 104.86s
+2025-06-13 00:57:06,356 - INFO - Session 32: Success | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb... | Pages: 1 | Duration: 106.86s
+2025-06-13 00:57:15,535 - INFO - Session 29: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac... | Pages: 2 | Duration: 178.79s
+2025-06-13 00:57:36,743 - INFO - Session 33: Success | UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Ap... | Pages: 1 | Duration: 125.14s
+2025-06-13 00:58:10,447 - INFO - Session 31: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 173.67s
+2025-06-13 00:59:04,482 - INFO - Session 34: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 94.77s
+2025-06-13 01:00:40,557 - INFO - Session 36: Success | UA: Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac... | Pages: 1 | Duration: 134.81s
